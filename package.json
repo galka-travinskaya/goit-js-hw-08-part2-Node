@@ -1,0 +1,34 @@
+{
+  "name": "goit-js-hw-08-part2-node",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galka-travinskaya/goit-js-hw-08-part2-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galka-travinskaya/goit-js-hw-08-part2-Node/issues"
+  },
+  "homepage": "https://github.com/galka-travinskaya/goit-js-hw-08-part2-Node#readme",
+  "dependencies": {
+    "joi": "^17.2.1",
+    "shortid": "^2.2.15"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.27.0"
+  },
+  "browserslist": [
+    "defaults",
+    "not IE 11",
+    "not IE_Mob 11",
+    "maintained node versions"
+  ]
+}
